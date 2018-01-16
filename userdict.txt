@@ -1,0 +1,1 @@
+﻿SQL,Python,Excel,mysql,R,Hadoop,Hive,MapReduce,HBase,SAS,NonSQ,PPT,Spark,SPSS  
